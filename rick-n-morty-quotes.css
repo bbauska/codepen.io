@@ -1,0 +1,46 @@
+body {
+  background-image: url(https://i.imgur.com/3GnUFl2.jpg); background: no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-size: 1.7em;
+  font-family: Cambria, Georgia, serif;
+}
+
+.container {
+  margin-top: 1em;
+  margin-left: auto;
+  margin-right: 3%;
+  width: 30%;
+  padding-bottom: 1.5em;
+  background-color: rgba(0,0,0,.7);
+  color: #fff;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.logo {
+  width:100%;
+  max-width:100%;
+  opacity: 0.7;
+}
+
+.quote-box {
+  margin: 1em 0;
+  margin-left: auto;
+  margin-right: 3%;
+  width: 30%;
+  border-radius: 10px;
+  text-align: center;
+  background-color: rgba(0,0,0,.7);
+  padding: 1em;
+  color: #fff;
+}
+
+.character {
+  margin-top: 0.2em;
+  opacity: 1;
+  color: #fff;
+
+}
